@@ -6,6 +6,9 @@ Use the app to calculate the percentage of hands that your hole cards beat on a 
 Interesting Examples:
 
 
+![image](https://github.com/adammotts/Equity/assets/122937892/e6edcf2d-3267-4cdf-914c-bcdb814be623)
+
+
 ![image](https://github.com/adammotts/Equity/assets/122937892/7d75ecf9-8776-46a3-aa5e-ba03e5acfb9a)
 
 
